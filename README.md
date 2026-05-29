@@ -1,4 +1,4 @@
-# SQL Exploratory Data Analysis - Sales Dataset
+# Exploratory Data Analysis - Sales Dataset
 ## Project Overview
 For this project, I adopted a structured data analytics framework to guide the exploration process. This framework covers key analytical techniques such as database exploration, measures analysis, ranking, trend analysis, cumulative analysis, performance analysis, and reporting.
 
